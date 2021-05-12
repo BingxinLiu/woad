@@ -1,0 +1,11 @@
+%YAML:1.0
+---
+SWS: 49
+PFS: 4
+preFiltCap: 63
+minDisp: 1
+numOfDisp: 48
+TxtrThrshld: 3
+unicRatio: 1
+SpcklRng: 9
+SpklWinSze: 7
