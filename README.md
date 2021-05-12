@@ -11,7 +11,7 @@ FILE STURCTURE:
 |- woad_bm.cpp   //program with BM algorithm  
 |- woad_cuda.cpp //program with BM algorithm accelerated by CUDA  
 |- woad_sgbm.cpp // program with SGBM, c++ version  
-|- woad_sgbm.py // program with SGBM, python version
+|- woad_sgbm.py // program with SGBM, python version  
 |- woad_sgm.cpp // program with SGBM, accelerated by CUDA  
 |- CMakeLists.txt // makefile
 #
